@@ -27,7 +27,7 @@ All simulated fastq files used for the analysis in this paper can be found in th
 The raw empirical data will be uploaded to ENA (identification number will follow). As described in the publication, we used all reads assigned to Viridiplantae and remapped them to our specific databases. The results of that mapping to the full trnL gene and the barcode database can be found in the ```emp_results``` folder. The results files for the full chloroplast database could not be uploaded due to the GitHub size limitation, but can be send when requested. 
 
 ## Data visualisation 
-All data was visualised using custom R scripts: ```scripts/plotting.R```. Plots from the paper can be found in the ```plots``` folder. 
+All data was visualised using custom R scripts: ```scripts/plotting.R``` and ```scripts/plotting_barcode.R```. Plots from the paper can be found in the ```plots``` folder. 
 
 
 
