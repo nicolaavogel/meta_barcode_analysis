@@ -1,4 +1,4 @@
-# barcodeMiner 
+# Metagenomic barcode analysis 
 
 This is a repository for the barcode analysis regarding the Lake Tjoernin data of the preprint "Environmental DNA Reveals Reykjavík’s Human and Ecological History"; doi: https://doi.org/10.1101/2025.10.08.681091
 
